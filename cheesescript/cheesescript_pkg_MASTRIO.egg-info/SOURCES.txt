@@ -1,0 +1,6 @@
+pyproject.toml
+setup.cfg
+cheesescript_pkg_MASTRIO.egg-info/PKG-INFO
+cheesescript_pkg_MASTRIO.egg-info/SOURCES.txt
+cheesescript_pkg_MASTRIO.egg-info/dependency_links.txt
+cheesescript_pkg_MASTRIO.egg-info/top_level.txt
